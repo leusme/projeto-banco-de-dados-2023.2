@@ -2,9 +2,9 @@
 ## Universidade Federal de Pernambuco
 ### Projeto Banco de dados
 
-### Tema : Gestão de Condomínio
+### Tema : Gestão de Condomínios
 
-## Equipe: 
+## GRUPO 2: 
 Leonardo Bezerra de Oliveira - lbo@cin.ufpe.br
 
 Lucas Luis de Souza -	lls4@cin.ufpe.br
