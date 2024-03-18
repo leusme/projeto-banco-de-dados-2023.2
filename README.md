@@ -2,7 +2,7 @@
 ## Universidade Federal de Pernambuco
 ### Projeto Banco de dados
 
-### Tema : A confirmar
+### Tema : Gestão de Condomínio
 
 ## Equipe: 
 Leonardo Bezerra de Oliveira - lbo@cin.ufpe.br
