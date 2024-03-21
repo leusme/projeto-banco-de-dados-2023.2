@@ -2,7 +2,7 @@
 <img src="/assets/logo ufpe (1).png">
 
 ## Centro de Informática - CIn
-<img src="/assets/logo cin (1).png">
+<img src="/assets/logocin (1).png">
 
 ### Projeto Banco de dados
 
