@@ -4,9 +4,13 @@
 ## Centro de Informática - CIn
 <img src="/assets/logocin (1).png">
 
-### Projeto Banco de dados
+### Projeto de Banco de dados
 
 ### Tema : Gestão de Condomínios
+
+## Resumo
+Um condomínio é uma propriedade composta por várias unidades residenciais ou comerciais, geralmente gerenciadas por uma associação de moradores com um presidente chamado de síndico. O principal objetivo de um sistema de gestão de condomínio é facilitar a administração eficiente e organizada do condomínio, garantindo o bom funcionamento das áreas comuns, a segurança dos moradores e a manutenção adequada dos apartamentos.
+
 
 ## GRUPO 2: 
 Leonardo Bezerra de Oliveira - lbo@cin.ufpe.br
